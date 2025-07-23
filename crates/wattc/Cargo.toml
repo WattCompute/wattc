@@ -1,0 +1,10 @@
+[package]
+description = "General-purpose computing on wgpu, unlock GPU power with Rust's safety"
+documentation = "https://docs.rs/wattc"
+edition = "2024"
+license = "MIT"
+name = "wattc"
+repository = "https://github.com/wattcompute/wattc"
+version = "0.1.3"
+
+[dependencies]
